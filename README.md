@@ -18,13 +18,16 @@ Built with a **modular architecture** similar to production systems at Netflix o
 
 ## 📸 Project Gallery
 
-| **Dashboard** | **Recommendations** |
+| **Cinematic Dashboard** | **Interactive Analytics** |
 |:---:|:---:|
-| ![Dashboard](assets/screenshots/1_dashboard.png) | ![Recs](assets/screenshots/2_recommendations.png) |
+| ![Dashboard](assets/screenshots/1_dashboard_hero.png) | ![Analytics](assets/screenshots/2_analytics.png) |
 
-| **Discovery** | **Visuals** | **Mobile** |
-|:---:|:---:|:---:|
-| ![Discovery](assets/screenshots/3_discovery.png) | ![Posters](assets/screenshots/4_posters.png) | ![Mobile](assets/screenshots/5_mobile.png) |
+| **Hybrid Recommendations** | **User History & Discovery** |
+|:---:|:---:|
+| ![Recs](assets/screenshots/3_recommendations.png) | ![History](assets/screenshots/4_history.png) |
+
+> *Visual Discovery Mode showing "For You" personalized feed*
+> ![Discovery](assets/screenshots/5_foryou.png)
 
 ## ✨ Key Features
 
