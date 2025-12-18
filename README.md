@@ -16,6 +16,16 @@ CinemAI isn't just a list of movies—it's an intelligent engine designed to und
 
 Built with a **modular architecture** similar to production systems at Netflix or Spotify, CinemAI offers a sleek, glassmorphic UI overlaying a robust machine learning backend.
 
+## 📸 Project Gallery
+
+| **Dashboard** | **Recommendations** |
+|:---:|:---:|
+| ![Dashboard](assets/screenshots/1_dashboard.png) | ![Recs](assets/screenshots/2_recommendations.png) |
+
+| **Discovery** | **Visuals** | **Mobile** |
+|:---:|:---:|:---:|
+| ![Discovery](assets/screenshots/3_discovery.png) | ![Posters](assets/screenshots/4_posters.png) | ![Mobile](assets/screenshots/5_mobile.png) |
+
 ## ✨ Key Features
 
 *   **🧠 Hybrid AI Engine**: Seamlessly blends Neural SVD (Matrix Factorization) and Content Vectorization for high-accuracy predictions.
